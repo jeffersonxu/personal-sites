@@ -199,6 +199,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jay Mo http://jaymo.me/
 - Jaylen Wimbish http://www.jaylenwimbish.com/
 - Jeffrey Lin http://linjeffrey.me
+- Jefferson Xu http://jeffersonxu.com/
 - Jennifer Apacible http://apacible.us/
 - Jeremy Meyer http://jeremymeyer.us
 - Jerica Huang http://jericahuang.com
